@@ -198,7 +198,7 @@ on:
         default: "Dev1l1323/amlogic-s9xxx-armbian"
         type: choice
         options:
-          - ophub/kernel
+          - Dev1l1323/amlogic-s9xxx-armbian
       kernel_usage:
         description: "Set the tags of the stable kernel."
         required: false
