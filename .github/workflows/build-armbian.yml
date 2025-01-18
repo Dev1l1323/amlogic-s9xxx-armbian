@@ -195,7 +195,7 @@ on:
       kernel_repo:
         description: "Set the kernel repository."
         required: false
-        default: "ophub/kernel"
+        default: "Dev1l1323/amlogic-s9xxx-armbian"
         type: choice
         options:
           - ophub/kernel
