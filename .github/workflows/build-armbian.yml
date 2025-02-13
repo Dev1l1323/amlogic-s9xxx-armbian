@@ -212,7 +212,7 @@ on:
           - stable
           - flippy
           - dev
-          - beta
+          - Dev1l
       armbian_fstype:
         description: "Select armbian rootfs type."
         required: false
